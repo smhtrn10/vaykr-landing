@@ -1,7 +1,7 @@
 import { motion } from "framer-motion";
 import { Apple } from "lucide-react";
 
-const APPLE_STORE_URL = "https://apps.apple.com"; // Replace with your actual App Store link
+const APPLE_STORE_URL = "https://apps.apple.com/us/app/vaykr-road-ready-booker/id6759841334"; // Replace with your actual App Store link
 
 const CtaSection = () => {
   return (
