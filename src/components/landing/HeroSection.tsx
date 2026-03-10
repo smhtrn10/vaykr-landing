@@ -2,7 +2,7 @@ import { motion } from "framer-motion";
 import { Apple, Plane, MapPin } from "lucide-react";
 import slice1 from "@/assets/slice-1.png";
 
-const APPLE_STORE_URL = "https://apps.apple.com"; // Replace with your actual App Store link
+const APPLE_STORE_URL = "https://apps.apple.com/us/app/vaykr-road-ready-booker/id6759841334"; // Replace with your actual App Store link
 
 const HeroSection = () => {
   return (
